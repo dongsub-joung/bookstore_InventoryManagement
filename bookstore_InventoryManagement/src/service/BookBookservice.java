@@ -5,7 +5,7 @@ import domain.User;
 
 import java.util.ArrayList;
 
-public class BookService extends serviceImple{
+public class BookBookservice extends BookserviceImple {
 
     @Override
     public void addBook(Book book, User user) {
